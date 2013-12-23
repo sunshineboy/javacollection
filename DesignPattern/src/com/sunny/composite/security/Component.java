@@ -6,7 +6,7 @@
 * 
  */
 
-package com.sunny.composite;
+package com.sunny.composite.security;
 
 /**
  * @author wangpj
