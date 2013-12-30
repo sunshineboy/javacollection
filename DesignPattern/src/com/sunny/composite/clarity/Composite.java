@@ -6,7 +6,7 @@
  * 
  */
 
-package com.sunny.composite.transparency;
+package com.sunny.composite.clarity;
 
 import java.util.ArrayList;
 import java.util.List;

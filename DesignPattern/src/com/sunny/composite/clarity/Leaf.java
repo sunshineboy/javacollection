@@ -1,4 +1,4 @@
-package com.sunny.composite.transparency;
+package com.sunny.composite.clarity;
 
 public class Leaf extends Component {
 	/**
